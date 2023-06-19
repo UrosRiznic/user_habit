@@ -1,0 +1,6 @@
+.venv
+.vscode
+__pycashe__
+*.pyc 
+.DS_Store
+data.db
